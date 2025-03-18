@@ -20,4 +20,3 @@ console.log(michele.CompAge(maria));
 
 console.log(maria.CompAge(michele));
 
-const petNameInput = document.getElementById("PetName");
